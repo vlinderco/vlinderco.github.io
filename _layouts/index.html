@@ -1,5 +1,46 @@
 ---
-layout: default
+layout: base
 ---
-<img class="centred" src="{{ site.baseurl }}resources/images/vlinder.jpg" alt="Vlinder" />
-{{ content }}
+
+<div class="jumbotron intro-banner" style="background-image: url({{site.baseurl}}resources/images/water-ripples.jpg)">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-6">
+        <img class="img-responsive pull-right" src="{{ site.baseurl }}resources/images/blue-butterfly.png">
+      </div> -->
+      <div class="col-md-6 col-md-offset-5">
+        <h1>Training and consultancy in Youth Justice and Social Care</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+  <div class="container">
+    <div class="row intro">
+      <div class="col-md-4">
+        <div class="info text-center">
+          <h2>Training</h2>
+          <p>Experienced in delivering training to YOT practitioners, children's centre staff, social workers and tertiary students. </p>
+          <p><a href="/training">More about training...</a></p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="info text-center">
+          <h2>Consultancy</h2>
+          <p>Experienced in working with practitioners, managers and associate consultants to improve practice and produce bespoke pieces of work. </p>
+          <p><a href="/consultancy">More about consultancy...</a></p>
+       </div>
+     </div>
+     <div class="col-md-4">
+        <div class="info text-center">
+          <h2>About Vlinder</h2>
+          <p>Founded by Dr Roberta Evans, Vlinder provides training and consultancy in Youth Justice and Social Care.</p>
+          <p><a href="/about">Find out more</a> or <a href="/contact">contact us</a>.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include upcoming.html %}

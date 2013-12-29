@@ -1,0 +1,24 @@
+- title: Training
+  url: /training
+  page: /training.html
+  footer: true
+
+- title: Consultancy
+  url: /consultancy
+  page: /consultancy.html
+  footer: true
+
+- title: Workshops
+  url: /workshops
+  page: /workshops.html
+  footer: true
+
+- title: About
+  url: /about
+  page: /about.html
+  footer: true
+
+- title: Contact
+  url: /contact
+  page: /contact.html
+  footer: false
