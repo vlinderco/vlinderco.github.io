@@ -21,7 +21,7 @@ The session can comprise a 3 hour workshop to look at all the areas of past and 
 
 ## Skills sharing workshops for Troubled Families projects
 
-Tailor made workshops can be developed to promote inter-professional family work. Ideal for teams that have teams with professionals from both youth work and early years parenting disciplines.
+Tailor made workshops can be developed to promote inter-professional family work. Ideal for teams with professionals from both youth work and early years parenting disciplines.
 
 The facilitator draws on experience from:
 
