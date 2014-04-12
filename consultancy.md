@@ -20,12 +20,13 @@ Experienced in working with practitioners, managers and associate consultants to
 
 ## Projects to date
 
-  - Tightrope model for engaging young people in positively recognising and managing risk 
+  - [Tightrope model][tightrope] for engaging young people in positively recognising and managing risk 
   - Compiling Pan-London Guidelines for Best Practice in Integrated Planning
   - Developing Parenting Support exercises for parents of children / young people involved with Youth Offending Teams
   - Childhood Development resources for parents of children aged 5 - 12 years and in adolescence
   - Supported a team of Children Centre outreach workers to produce and deliver bespoke interactive workshops to parents of under 5s
 
+[tightrope]: /downloads/tightropemodel.pdf
 
 ## Publications
 
