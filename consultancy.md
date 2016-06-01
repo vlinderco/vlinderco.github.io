@@ -44,7 +44,7 @@ This paper presents a tool that encourages the engagement of the young person in
 
 [parenting-orders]: http://yjj.sagepub.com/content/12/2/118.abstract
 [Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
-[Introducing Tightrope]: https://d19ylpo4aovc7m.cloudfront.net/fileadmin/howard_league/user/pdf/Research/What_is_Justice/HLWP_18_2015.pdf
+[Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
 
 
 > "Go on, hitch a ride on the back of a butterfly. There's no better way to fly."
