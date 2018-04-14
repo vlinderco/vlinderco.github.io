@@ -32,6 +32,9 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Central values – the intentions and motives of past or future behaviour
 -	Steps Down – actions needed / planning for future goals and safe ground
 
+![Tightrope toolkit](resources/images/tookit.jpg)
+
+
 > "I got more in that tightrope in one session than I’d done in 10 weeks"  
 > <small>Wandsworth Locality Youth Work Manager (working with CSE and gangs)</small>
 
