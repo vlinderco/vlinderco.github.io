@@ -53,7 +53,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 
 A sample handbook with blank template and inform guidance is also available on request.  
 
-Email: info@vlinder.co.uk 
+Email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
 
 
