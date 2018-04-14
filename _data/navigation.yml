@@ -8,9 +8,9 @@
   page: /consultancy.html
   footer: true
 
-- title: Workshops
-  url: /workshops
-  page: /workshops.html
+- title: Resources
+  url: /resources
+  page: /resources.html
   footer: true
 
 - title: About
