@@ -32,6 +32,13 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Central values – the intentions and motives of past or future behaviour
 -	Steps Down – actions needed / planning for future goals and safe ground
 
+### Order the full toolkit for just £89.00 (no VAT)
+
+
+A sample handbook with blank template and inform guidance is also available on request.  
+
+Email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
+
 <img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
 
 
@@ -48,12 +55,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
 
-### Order the full toolkit for just £89.00 (no VAT)
 
-
-A sample handbook with blank template and inform guidance is also available on request.  
-
-Email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
 
 
