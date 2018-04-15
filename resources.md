@@ -4,7 +4,7 @@ layout: page
 banner-image: kid-and-graffiti.jpg
 ---
 
-# Resources <small>publications and toolkits</small>
+# Resources <small>toolkits and publications</small>
 
 <img id="tightrope-toolkit" src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
