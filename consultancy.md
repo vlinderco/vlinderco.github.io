@@ -11,6 +11,8 @@ banner-image: tree-and-sky.jpg
   - Creating and updating Policies, Procedures and Protocols
   - Writing inform guidance to compliment templates, utilising legislation and guidance to enhance application
   - Case file audits (Youth Offending)
+  - Attendance at Roundtable discussions in regard to youth offending and serious youth violence
+  - Involvement in national commissioning projects
 
 
 ## Projects to date
@@ -19,8 +21,6 @@ banner-image: tree-and-sky.jpg
   - Developed Parenting Support exercises for parents of children / young people involved with Youth Offending Teams
   - Childhood Development resources for parents of children aged 5 - 12 years and in adolescence
   - Supported a team of Children Centre outreach workers to produce and deliver bespoke interactive workshops to parents of under 5s
-  - Attendance at Roundtable discussions in regard to youth offending and serious youth violence
-  - Involvement in national commissioning projects
   
   - [Tightrope Tool][tightrope] for engaging young people in positively recognising resilience and managing volatility
 
