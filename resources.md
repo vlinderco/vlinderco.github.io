@@ -9,7 +9,7 @@ banner-image: kid-and-graffiti.jpg
 
 ## tight rope<sup>&reg;</sup>
 
-<img src="resources/images/toolkit-logo.png" alt="registered logo" class="img-responsive" style="max-width:800px;">
+<img src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
 Want to engage young people in open discussions about their behavior and choices?
 
