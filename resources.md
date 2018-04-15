@@ -6,10 +6,7 @@ banner-image: kid-and-graffiti.jpg
 
 # Resources <small>publications and toolkits</small>
 
-
-## tight rope<sup>&reg;</sup>
-
-<img src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
+<img id="tightrope" src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
 Want to engage young people in open discussions about their behavior and choices?
 
