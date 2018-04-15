@@ -15,11 +15,14 @@ banner-image: tree-and-sky.jpg
 
 ## Projects to date
 
-  - [Tightrope Tool][tightrope] for engaging young people in positively recognising resilience and managing volatility
-  - Compiling Pan-London Guidelines for Best Practice in Integrated Planning
-  - Developing Parenting Support exercises for parents of children / young people involved with Youth Offending Teams
+  - Compilied Pan-London Guidelines for Best Practice in Integrated Planning
+  - Developed Parenting Support exercises for parents of children / young people involved with Youth Offending Teams
   - Childhood Development resources for parents of children aged 5 - 12 years and in adolescence
   - Supported a team of Children Centre outreach workers to produce and deliver bespoke interactive workshops to parents of under 5s
+  - Attendance at Roundtable discussions in regard to youth offending and serious youth violence
+  - Involvement in national commissioning projects
+  
+  - [Tightrope Tool][tightrope] for engaging young people in positively recognising resilience and managing volatility
 
 [tightrope]: /resources.md#tightrope
 
