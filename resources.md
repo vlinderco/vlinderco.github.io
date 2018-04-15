@@ -7,7 +7,7 @@ banner-image: kid-and-graffiti.jpg
 # Resources <small>publications and toolkits</small>
 
 
-## Tightrope<sup>&reg;</sup>
+## tight rope<sup>&reg;</sup>
 
 Want to engage young people in open discussions about their behavior and choices?
 
