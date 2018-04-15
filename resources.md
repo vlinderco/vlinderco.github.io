@@ -25,7 +25,7 @@ This paper presents a tool that encourages the engagement of the young person in
 [Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
 
 
-## Tightrope toolkit
+## Toolkits
 
 <img src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
@@ -40,6 +40,18 @@ The toolkit includes:
 -	84 page manual with evidence-led guidance using research from a range of disciplines
 -	1 page guidance sheet with inform prompts to be photocopied from the manual
 -	Evaluation tool to use at the start and end of interventions
+
+> "I got more in that tightrope in one session than I’d done in 10 weeks"  
+> <small>Wandsworth Locality Youth Work Manager (working with CSE and gangs)</small>
+
+> "What a can of worms (information) in 10 years I have not managed to gain so much info in one session using such an effective assessment tool. Wow….."  
+> <small>Bail and Remand Officer in Hammersmith and Fulham</small>
+
+> "They can see what's going wrong and the patterns...They can identify better choices...It's visual and they get it."  
+> <small>Feedback from young people and workers in Wandsworth</small>
+
+> "They have been able to identify intentions and motivations which they hadn't previously."  
+> <small>Practitioner in Lambeth Youth Offending Service</small>
 
 Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
 
@@ -60,25 +72,6 @@ A sample handbook with blank template and inform guidance is also available on r
 Email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
 <img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
-
-
-> "I got more in that tightrope in one session than I’d done in 10 weeks"  
-> <small>Wandsworth Locality Youth Work Manager (working with CSE and gangs)</small>
-
-> "What a can of worms (information) in 10 years I have not managed to gain so much info in one session using such an effective assessment tool. Wow….."  
-> <small>Bail and Remand Officer in Hammersmith and Fulham</small>
-
-> "They can see what's going wrong and the patterns...They can identify better choices...It's visual and they get it."  
-> <small>Feedback from young people and workers in Wandsworth</small>
-
-> "They have been able to identify intentions and motivations which they hadn't previously."  
-> <small>Practitioner in Lambeth Youth Offending Service</small>
-
-
-
-
-
-
 
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
