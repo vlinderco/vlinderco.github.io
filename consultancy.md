@@ -22,9 +22,9 @@ banner-image: tree-and-sky.jpg
   - Childhood Development resources for parents of children aged 5 - 12 years and in adolescence
   - Supported a team of Children Centre outreach workers to produce and deliver bespoke interactive workshops to parents of under 5s
   
-  - [Tightrope Tool][tightrope] for engaging young people in positively recognising resilience and managing volatility
+  - [Tightrope Toolkit][tightrope] for engaging young people in positively recognising resilience and managing volatility
 
-[tightrope]: /resources.md#tightrope
+[tightrope]: /resources.md#tightrope-toolkit
 
 
 
