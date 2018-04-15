@@ -21,17 +21,23 @@ Training and Workshops have been delivered on:
   - Identifying pathways to and steps down from risk taking behaviour
 
 
-Bespoke full-day events and workshops can be provided for Youth Offending Teams. Places at specialist events held in London can also be booked through our associates. Please visit [Backstop Support Ltd][backstop] for training on 'Adolescent Development' and 'Working with Volatile Teens' or visit [Wardell Associates Ltd][wardell] for events on 'Report Writing'.
+## tight rope  
 
-[backstop]: http://www.backstop.org.uk/your-training-contacts/
-[wardell]: http://www.wardellassociates.co.uk/
+Workshops and full-day training events are available for teams wanting to implement the tightrope.
 
+The full-day event will cover 
+- Research and theories that underpin the tightrope (adolescent development, desistance and resilience)
+- Considering the impact of trauma on brain development and behaviour
+- Understanding the fit with assessment and planning processes and models of direct work
+- Inspecting the 8 elements of the tightrope
+- Practice using the mapping form with a casestudy
 
+The workshop will cover
+- An introduction to the tightrope
+- The fit with various approaches of direct work with adolescents
+- A brief overview of each element of the tightrope
 
-
-
-
-
+The toolkit is available for purchase
 
 > "Just like the butterfly, I too will awaken in my own time."
 > <small>Deborah Chaskin</small>
