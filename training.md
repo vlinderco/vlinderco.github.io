@@ -23,7 +23,7 @@ Training and Workshops have been delivered on:
 
 ## tight rope  
 
-Workshops and full-day training events are available for teams wanting to implement the tightrope.
+Workshops and full-day training events are available for teams wanting to implement the tightrope
 
 The full-day event will cover 
 - Research and theories that underpin the tightrope (adolescent development, desistance and resilience)
@@ -37,7 +37,9 @@ The workshop will cover
 - The fit with various approaches of direct work with adolescents
 - A brief overview of each element of the tightrope
 
-The toolkit is available for purchase
+The [tightrope toolkit] [tightrope] is available for purchase in the resources page
+
+[tightrope]: /resources.md#tightrope
 
 > "Just like the butterfly, I too will awaken in my own time."
 > <small>Deborah Chaskin</small>
