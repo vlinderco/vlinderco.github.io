@@ -37,7 +37,7 @@ The workshop will cover
 - The fit with various approaches of direct work with adolescents
 - A brief overview of each element of the tightrope
 
-The [tightrope toolkit] [tightrope] is available for purchase in the resources page
+The [tightrope toolkit] [tightrope] is available for purchase, see more detail in the resources page
 
 [tightrope]: /resources.md#tight-rope
 
