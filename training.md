@@ -39,7 +39,7 @@ The workshop will cover
 
 The [tightrope toolkit] [tightrope] is available for purchase, see more detail in the resources page
 
-[tightrope]: /resources.md#tight-rope
+[tightrope]: /resources.md#tightrope toolkit
 
 > "Just like the butterfly, I too will awaken in my own time."
 > <small>Deborah Chaskin</small>
