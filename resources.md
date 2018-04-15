@@ -77,5 +77,5 @@ This paper presents a tool that encourages the engagement of the young person in
 [Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
 [Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
 
-> "The fluttering of a butterfly's wings can effect climate changes on the other side of the planet."
-> <small>Paul Erlich</small>
+> "There is nothing in a caterpillar that tells you it's going to be a butterfly."
+> <small>Richard Buckminster Fuller</small>
