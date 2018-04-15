@@ -9,6 +9,8 @@ banner-image: kid-and-graffiti.jpg
 
 ## tight rope<sup>&reg;</sup>
 
+<img src="resources/images/toolkit-logo.png" alt="registered logo" class="img-responsive" style="max-width:800px;">
+
 Want to engage young people in open discussions about their behavior and choices?
 
 Regardless of a young person’s behavior this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
