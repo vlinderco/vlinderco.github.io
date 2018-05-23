@@ -124,6 +124,11 @@ blockquote p {
   font-size: 36px;
 }
 
+.privacy {
+  margin-top: 60px;
+  font-size: 14px;
+}
+
 .footer-border-image {
   height: 60px;
   background-color: #2b2b2b;
