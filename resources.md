@@ -43,9 +43,11 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Central values – the intentions and motives of past or future behaviour
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-### Order the full toolkit for just £89.00 (no VAT)
+### Order the full toolkit for just £44.95 (no VAT)
 
-A sample handbook with blank template and inform guidance is also available on request.  
+Also available on Amazon
+
+A sample handbook with blank template and inform guidance is available on request.  
 
 Email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
