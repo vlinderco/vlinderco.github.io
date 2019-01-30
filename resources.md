@@ -32,6 +32,9 @@ The toolkit includes:
 > "They have been able to identify intentions and motivations which they hadn't previously."  
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
+Watch this video for information about the elements of the Tightrope and the analogy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
 
 -	Falling Off – the behavior we are worried might happen in the future
@@ -42,8 +45,6 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Foundations – times of success and exceptions to harm
 -	Central values – the intentions and motives of past or future behaviour
 -	Steps Down – actions needed / planning for future goals and safe ground
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Order the full toolkit for just £44.95 (no VAT)
 
