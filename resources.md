@@ -8,6 +8,8 @@ banner-image: kid-and-graffiti.jpg
 
 <img id="tightrope-toolkit" src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
+<img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
+
 Want to engage young people in open discussions about their behavior and choices?
 
 Regardless of a young person’s behavior this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
@@ -54,7 +56,9 @@ A sample handbook with blank template and inform guidance is available on reques
 
 Email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-<img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
+This next video has been created for young people as a summary of the Tightrope:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Publications
 
