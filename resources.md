@@ -8,8 +8,6 @@ banner-image: kid-and-graffiti.jpg
 
 <img id="tightrope-toolkit" src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
-<img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
-
 Want to engage young people in open discussions about their behavior and choices?
 
 Regardless of a young person’s behavior this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
@@ -21,6 +19,8 @@ The toolkit includes:
 -	84 page manual with evidence-led guidance using research from a range of disciplines
 -	1 page guidance sheet with inform prompts to be photocopied from the manual
 -	Evaluation tool to use at the start and end of interventions
+
+<img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks"  
 > <small>Wandsworth Locality Youth Work Manager (working with CSE and gangs)</small>
@@ -50,7 +50,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 
 ### Order the full toolkit for just £44.95 (no VAT)
 
-Also available on Amazon
+Also available on Amazon (https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans)
 
 A sample handbook with blank template and inform guidance is available on request.  
 
