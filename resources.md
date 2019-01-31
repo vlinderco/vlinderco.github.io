@@ -50,7 +50,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 
 ### Order the full toolkit for just £44.95 (no VAT)
 
-Also available on Amazon (https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans)
+Also available on [Amazon]
 
 A sample handbook with blank template and inform guidance is available on request.  
 
@@ -74,6 +74,12 @@ This paper also drew on some of the wider thesis (Vlugter, 2009) and provides da
 
 This paper presents a tool that encourages the engagement of the young person in the analysis of their risks, strengths and needs and in the planning of actions based on a balanced and transparent holistic assessment. It will introduce the analogy of the Tightrope, outline how it fits with current assessment frameworks to support an integrated approach and considers the role of the practitioner to apply a person-centred, strength-based approach with the tool. This paper will outline why an integrated and interactive holistic tool for volatile youth would be of benefit to both young people and professionals from various disciplines and concludes with an invitation to experienced practitioners to trial the tool in wider practice.
 
+["How do ACEs and Contextual Safeguarding fit together? Using the Tightrope to explain"][ACE Contextual]
+
+This LinkedIn blog post was in response to a colleague's question who was trying to understand how these popular frameworks and discourse might work together. The analogy of the Tightrope can apply to both. While this blog doesn't mention the toolkit, the cards within the toolkit do include "factors" that range from the individual to the family, peer group, school, community and political contexts.
+
+[Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
+[ACE Contextual]: https://www.linkedin.com/pulse/how-do-aces-contextual-safeguarding-fit-together-using-roberta-evans/
 [parenting-orders]: http://yjj.sagepub.com/content/12/2/118.abstract
 [Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
 [Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
