@@ -8,14 +8,14 @@ banner-image: kid-and-graffiti.jpg
 
 <img id="tightrope-toolkit" src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
-Want to engage young people in open discussions about their behavior and choices?
+Want to engage young people in open discussions about their circumstances and future goals?
 
-Regardless of a young person’s behavior this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
+Regardless of a young person’s presenting needs this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
 
 The toolkit includes:
 -	Easy to follow 1 page form to capture the views of the young person
--	8 sets of cards to reflect on risks, motives and resilience factors 
--	16 prompts per set, all numbered and referenced in the manual 
+-	8 sets of cards to reflect on past and current circumstances, values, motives, support and resilience factors 
+-	16 prompts per set, all numbered and referenced in the manual
 -	84 page manual with evidence-led guidance using research from a range of disciplines
 -	1 page guidance sheet with inform prompts to be photocopied from the manual
 -	Evaluation tool to use at the start and end of interventions
