@@ -53,16 +53,16 @@ The toolkit includes:
 
 ## Video guide <small>-for practitioners</small>
 
-<small>This video provides information about the elements of the Tightrope and the analogy</small>
+<small>This video explains the analogy of the Tightrope and goes through each element</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Video guides <small>-for young people</small>
+## Video guide <small>-for young people</small>
 
-<small>This video has been created for young people as a summary of the Tightrope</small>
+<small>This video provides a summary of the analogy of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-"Download sample workbooks"
+## Download sample workbooks
 
 A workbook of the [tightrope] has been created as an introduction pack 
 
@@ -70,30 +70,7 @@ For Youth Justice practitioners an Out of Court Disposal template has been creat
 
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-## Publications
-
-["Parenting Orders: The Parents Attend Yet the Kids Still Offend"][parenting-orders], Youth Justice 2012 12: 118, August 2012
-
-This article draws from a wider thesis completed at Bedfordshire University (Vlugter, 2009 'Too Little, Too Late: Parenting Orders as a form of crime prevention'). It presents results from an empirical case study that involved 148 cases and examines the circumstances of parents attending programmes, their attendance and the young people’s recorded offending before and after the intervention, considering the type of intervention and number of sessions attended. 
-
-["Why Don’t We Listen? Parents of high-level offenders asked for help before their child’s first offence"][Backstop listen], Backstop Support Ltd blog, June 2014
-
-This paper also drew on some of the wider thesis (Vlugter, 2009) and provides data that indicates that a large majority of parents of 'high end'offenders had called for help before their child's first recorded offence. The help was often sought from statutory services but with negative results. This paper considers how professionals can support families earlier and more effectively.
-
-["Balancing positive engagement and transparent risk analysis with volatile youth: Introducing the Tightrope Tool"][Introducing Tightrope], Howard League What is Justice? Working Papers 18/2015 
-
-This paper presents a tool that encourages the engagement of the young person in the analysis of their risks, strengths and needs and in the planning of actions based on a balanced and transparent holistic assessment. It will introduce the analogy of the Tightrope, outline how it fits with current assessment frameworks to support an integrated approach and considers the role of the practitioner to apply a person-centred, strength-based approach with the tool. This paper will outline why an integrated and interactive holistic tool for volatile youth would be of benefit to both young people and professionals from various disciplines and concludes with an invitation to experienced practitioners to trial the tool in wider practice.
-
-["How do ACEs and Contextual Safeguarding fit together? Using the Tightrope to explain"][ACE Contextual]
-
-This LinkedIn blog post was in response to a colleague's question who was trying to understand how these popular frameworks and discourse might work together. The analogy of the Tightrope can apply to both. While this blog doesn't mention the toolkit, the cards within the toolkit do include "factors" that range from the individual to the family, peer group, school, community and political contexts.
-
-[Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
-[ACE Contextual]: https://www.linkedin.com/pulse/how-do-aces-contextual-safeguarding-fit-together-using-roberta-evans/
-[parenting-orders]: http://yjj.sagepub.com/content/12/2/118.abstract
-[Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
-[Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
-[tightrope]: /downloads/tightropemodel.pdf
+[Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans[tightrope]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
