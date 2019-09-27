@@ -40,7 +40,7 @@ The workshop will cover
 The toolkit would be available to view at the event and can be purchased at a reduced rate before, or on the day of, any booked training event
 
 
-## Consultancy
+# Consultancy
 
 Experience to date
   - Coaching frontline practitioners and managers
