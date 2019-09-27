@@ -59,6 +59,9 @@ This next video has been created for young people as a summary of the Tightrope:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+A workbook of the [tightrope] has been created as an introduction pack 
+
+
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
 
@@ -89,7 +92,8 @@ This LinkedIn blog post was in response to a colleague's question who was trying
 [parenting-orders]: http://yjj.sagepub.com/content/12/2/118.abstract
 [Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
 [Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
-[OOCD Screening Template 2019.pdf]: https://github.com/vlinderco/vlinderco.github.io/blob/master/downloads/OOCD%20Screening%20Tightrope%202019.pdf
+[tightrope]: /downloads/tightropemodel.pdf
+[OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
