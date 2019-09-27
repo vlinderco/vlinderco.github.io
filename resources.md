@@ -50,10 +50,11 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Steps Down – actions needed / planning for future goals and safe ground
 
 
-Watch this video for information about the elements of the Tightrope and the analogy
+## Video guides<small>for practitioners and young people</small>
+This video provides information about the elements of the Tightrope and the analogy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This next video has been created for young people as a summary of the Tightrope:
+This video has been created for young people as a summary of the Tightrope:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
