@@ -29,7 +29,6 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 Also available on [Amazon]
 
 <img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
-
 The toolkit includes:
 -	Easy to follow 1 page form to capture the views of the young person
 -	8 sets of cards to reflect on past and current circumstances, values, motives, support and resilience factors 
@@ -51,16 +50,15 @@ The toolkit includes:
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
 
-## Video guide <small> -for practitioners</small>
-
-<small>This video explains the analogy of the Tightrope and goes through each element</small>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Video guide <small> -for young people</small>
+## Video guide <small> - for young people</small>
 
 <small>This video provides a summary of the analogy of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Video guide <small> - for practitioners</small>
+
+<small>This video explains the analogy of the Tightrope and goes through each element</small>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Download sample workbooks
 
