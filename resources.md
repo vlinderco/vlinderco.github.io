@@ -34,12 +34,13 @@ The toolkit includes:
 > "They have been able to identify intentions and motivations which they hadn't previously."  
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
+
+### Order the full toolkit for just £44.95 (no VAT)
+
+Also available on [Amazon]
+
 Watch this video for information about the elements of the Tightrope and the analogy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-This next video has been created for young people as a summary of the Tightrope:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
@@ -53,13 +54,16 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Central values – the intentions and motives of past or future behaviour
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-### Order the full toolkit for just £44.95 (no VAT)
 
-Also available on [Amazon]
+This next video has been created for young people as a summary of the Tightrope:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
+
 
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
 
 ## Publications
@@ -85,6 +89,7 @@ This LinkedIn blog post was in response to a colleague's question who was trying
 [parenting-orders]: http://yjj.sagepub.com/content/12/2/118.abstract
 [Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
 [Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
+[OOCD Screening Template 2019.pdf]: 
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
