@@ -51,17 +51,18 @@ The toolkit includes:
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
 
-## Video guides 
-<small>for practitioners and young people</small>
+## Video guide <small>-for practitioners</small>
 
 <small>This video provides information about the elements of the Tightrope and the analogy</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Video guides <small>-for young people</small>
 
 <small>This video has been created for young people as a summary of the Tightrope</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Download sample workbooks
+"Download sample workbooks"
 
 A workbook of the [tightrope] has been created as an introduction pack 
 
