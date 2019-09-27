@@ -1,11 +1,11 @@
-- title: Training
-  url: /training
-  page: /training.html
+- title: Training and Consultancy
+  url: /training and consultancy
+  page: /training and consultancy.html
   footer: true
 
-- title: Consultancy
-  url: /consultancy
-  page: /consultancy.html
+- title: Publications
+  url: /publications
+  page: /publications.html
   footer: true
 
 - title: Resources
