@@ -4,7 +4,7 @@ layout: page
 banner-image: kid-and-graffiti.jpg
 ---
 
-# Resources <small>toolkits and publications</small>
+# Resources <small>toolkits, videos and workbooks</small>
 
 <img id="tightrope-toolkit" src="resources/images/tightrope logo.png" alt="registered logo" class="img-responsive" style="max-width:400px;">
 
@@ -51,12 +51,12 @@ The toolkit includes:
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
 
-## Video guide <small>-for practitioners</small>
+## Video guide <small> -for practitioners</small>
 
 <small>This video explains the analogy of the Tightrope and goes through each element</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Video guide <small>-for young people</small>
+## Video guide <small> -for young people</small>
 
 <small>This video provides a summary of the analogy of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
