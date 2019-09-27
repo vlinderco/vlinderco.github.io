@@ -20,6 +20,10 @@ The toolkit includes:
 -	1 page guidance sheet with inform prompts to be photocopied from the manual
 -	Evaluation tool to use at the start and end of interventions
 
+### Order the full toolkit for just £44.95 (no VAT)
+
+Also available on [Amazon]
+
 <img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks"  
@@ -34,15 +38,6 @@ The toolkit includes:
 > "They have been able to identify intentions and motivations which they hadn't previously."  
 > <small>Practitioner in Lambeth Youth Offending Service</small>
 
-
-### Order the full toolkit for just £44.95 (no VAT)
-
-Also available on [Amazon]
-
-Watch this video for information about the elements of the Tightrope and the analogy
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
 
 -	Falling Off – the behavior we are worried might happen in the future
@@ -55,19 +50,20 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Steps Down – actions needed / planning for future goals and safe ground
 
 
+Watch this video for information about the elements of the Tightrope and the analogy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This next video has been created for young people as a summary of the Tightrope:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-A workbook of the [tightrope] has been created as an introduction pack 
+## Download sample workbooks
 
+A workbook of the [tightrope] has been created as an introduction pack 
 
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
-
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
-
-
 
 ## Publications
 
