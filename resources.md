@@ -52,12 +52,12 @@ The toolkit includes:
 
 ## Video guide <small> - for young people</small>
 
-<small>This video provides a summary of the analogy of the Tightrope for young people</small>
+<small>This video provides a summary of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Video guide <small> - for practitioners</small>
 
-<small>This video explains the analogy of the Tightrope and goes through each element</small>
+<small>This video outlines the aims and explains the developmental theory underpinning the Tightrope</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Download sample workbooks
@@ -68,7 +68,8 @@ For Youth Justice practitioners an Out of Court Disposal template has been creat
 
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-[Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans[tightrope]: /downloads/tightropemodel.pdf
+[Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
+[tightrope]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
