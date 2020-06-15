@@ -24,7 +24,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Steps Down – actions needed / planning for future goals and safe ground
 
 
-### Order the full toolkit for just £44.95 (no VAT)
+### Order the full toolkit for just £15.95 (no VAT)
 
 Also available on [Amazon]
 
@@ -37,17 +37,17 @@ The toolkit includes:
 -	1 page guidance sheet with inform prompts to be photocopied from the manual
 -	Evaluation tool to use at the start and end of interventions
 
-> "I got more in that tightrope in one session than I’d done in 10 weeks"  
+> "I got more in that tightrope in one session than I’d done in 10 weeks working with the young person"  
 > <small>Wandsworth Locality Youth Work Manager (working with CSE and gangs)</small>
+>
+> "[Young people] have been able to identify intentions and motivations which they hadn't previously."  
+> <small>Practitioner in Lambeth Youth Offending Service</small>
+>
+> "[Young people] can see what's going wrong and the patterns...They can identify better choices...It's visual and they get it."  
+> <small>Feedback from young people and workers in Wandsworth</small>
 >
 > "What a can of worms (information) in 10 years I have not managed to gain so much info in one session using such an effective assessment tool. Wow….."  
 > <small>Bail and Remand Officer in Hammersmith and Fulham</small>
->
-> "They can see what's going wrong and the patterns...They can identify better choices...It's visual and they get it."  
-> <small>Feedback from young people and workers in Wandsworth</small>
->
-> "They have been able to identify intentions and motivations which they hadn't previously."  
-> <small>Practitioner in Lambeth Youth Offending Service</small>
 
 
 ## Video guide <small> - for young people</small>
