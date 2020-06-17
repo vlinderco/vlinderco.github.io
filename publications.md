@@ -18,9 +18,9 @@ This paper also drew on some of the wider thesis (Vlugter, 2009) and provides da
 
 This paper presents a tool that encourages the engagement of the young person in the analysis of their risks, strengths and needs and in the planning of actions based on a balanced and transparent holistic assessment. It will introduce the analogy of the Tightrope, outline how it fits with current assessment frameworks to support an integrated approach and considers the role of the practitioner to apply a person-centred, strength-based approach with the tool. This paper will outline why an integrated and interactive holistic tool for volatile youth would be of benefit to both young people and professionals from various disciplines and concludes with an invitation to experienced practitioners to trial the tool in wider practice.
 
-["How do ACEs and Contextual Safeguarding fit together? Using the Tightrope to explain"][ACE Contextual]
+["How do ACEs and Contextual Safeguarding fit together? Using the Tightrope to explain"][ACE Contextual], LinkedIn blog Jan 2019
 
-This LinkedIn blog post was in response to a colleague's question who was trying to understand how these popular frameworks and discourse might work together. The analogy of the Tightrope can apply to both. While this blog doesn't mention the toolkit, the cards within the toolkit do include "factors" that range from the individual to the family, peer group, school, community and political contexts.
+This post was in response to a colleague's question asking how these popular frameworks and discourse might work together. The analogy of the Tightrope can apply to both. While this blog doesn't mention the toolkit, the cards within the toolkit do include "factors" that range from the individual to the family, peer group, school, community and political contexts.
 
 
 [ACE Contextual]: https://www.linkedin.com/pulse/how-do-aces-contextual-safeguarding-fit-together-using-roberta-evans/
