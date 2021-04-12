@@ -69,14 +69,14 @@ For Youth Justice practitioners an Out of Court Disposal template has been creat
 
 ## Guidance booklet PDF link
 
-For those using the toolkit with cards - this is the link to the guidance [guidance]
+For those using the toolkit with cards - this is the link to the evidence based [guidance]
 
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
 [Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
 [tightrope]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
-[guidance]:
+[guidance]: /downloads/guidance.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
