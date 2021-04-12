@@ -33,8 +33,9 @@ The toolkit includes:
 -	Easy to follow 1 page form to capture the views of the young person
 -	8 sets of cards to reflect on past and current circumstances, values, motives, support and resilience factors 
 -	16 prompts per set, all numbered and referenced in the manual
--	84 page manual with evidence-led guidance using research from a range of disciplines
--	1 page guidance sheet with inform prompts to be photocopied from the manual
+-	84 page manual with evidence-led guidance using research from a range of disciplines - this will be as a PDF download link
+-	pad with 50 blank tightrope templates to take off and use in sessions - two per pack
+-	1 page guidance sheet with inform prompts that can be photocopied from the manual
 -	Evaluation tool to use at the start and end of interventions
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks working with the young person"  
@@ -62,15 +63,20 @@ The toolkit includes:
 
 ## Download sample workbooks
 
-A workbook of the [tightrope] has been created as an introduction pack 
+A workbook of the [tightrope] has been created as an introduction pack
 
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
+
+## Guidance booklet PDF link
+
+For those using the toolkit with cards - this is the link to the guidance [guidance]
 
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
 [Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
 [tightrope]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
+[guidance]:
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
