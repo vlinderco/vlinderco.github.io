@@ -67,6 +67,8 @@ A workbook of the [tightrope] has been created as an introduction pack
 
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
+The original use of the tightrope analogy was with parents, see the home-made workbook here: [Circus Act]
+
 ## Guidance booklet PDF link
 
 For those using the toolkit with cards - this is the link to the evidence based [guidance]
@@ -77,6 +79,7 @@ For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 [tightrope]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [guidance]: /downloads/guidance.pdf
+[Circus Act]: /downloads/Circus-Act-2012.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
