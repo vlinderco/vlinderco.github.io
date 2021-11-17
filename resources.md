@@ -23,11 +23,6 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Central values – the intentions and motives of past or future behaviour
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-
-### Order the full toolkit for just £15.95 (no VAT)
-
-Also available on [Amazon]
-
 <img src="resources/images/toolkit.jpg" alt="Tightrope toolkit" class="img-responsive" style="max-width:800px;">
 The toolkit includes:
 -	Easy to follow 1 page form to capture the views of the young person
