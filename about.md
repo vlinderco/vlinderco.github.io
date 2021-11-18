@@ -6,11 +6,9 @@ banner-image: otago-coast.jpg
 
 # About Vlinder
 
-Vlinder is the creation of [Dr Roberta Evans][profile], a qualified social worker with a Professional Doctorate in Youth Justice and nearly 20 years experience in practice, ranging from front-line social work in New Zealand and the UK, senior practitioner and manager, to practice development and training. 
+Vlinder is the service delivered by [Dr Roberta Evans][profile], who is a qualified social worker with over 20 years experience in practice. Roberta has a doctorate in youth justice and parenting. Since 2021 Roberta became one of Brittany Watkins Tapping for Weightloss Coaches and has a keen interest in unravelling the impact of past childhood trauma to enable and empower positive change toward fulfilling adult futures. 
 
 Vlinder means butterfly in dutch (Roberta's ancestoral origin) and is an alliteration of Roberta's maiden name (Vlugter). The butterfly logo and figure surrounded by butterflies were created by her son (aged 10). 
-
-All products and materials are developed and delivered by Dr Evans, unless stated otherwise. 
 
 [profile]: http://uk.linkedin.com/pub/roberta-evans/25/b37/907
 
