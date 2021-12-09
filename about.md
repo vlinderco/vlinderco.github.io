@@ -10,7 +10,10 @@ Vlinder is the service delivered by [Dr Roberta Evans][profile], who is a qualif
 
 Vlinder means butterfly in dutch (Roberta's ancestoral origin) and is an alliteration of Roberta's maiden name (Vlugter). The butterfly logo and figure surrounded by butterflies were created by her son (aged 10). 
 
+If you are looking for the Tightrope Tool please go [here]
+
 [profile]: http://uk.linkedin.com/pub/roberta-evans/25/b37/907
+[here]:https//www.tightropetool.com
 
 
 > "The fluttering of a butterfly's wings can effect climate changes on the other side of the planet."
