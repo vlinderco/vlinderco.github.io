@@ -25,7 +25,7 @@ You are invited to work through each section of the Tightrope to uncover...
 
 For more information email: [roberta@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-[download balancing on tightrope of life]: /downloads/balancing_life.pdf
+[download balancing on tightrope of life]: /downloads/balancinglife.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
