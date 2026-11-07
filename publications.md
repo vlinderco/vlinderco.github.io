@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-banner-image: Petrified.jpeg
+banner-image: flax-harbour.jpg
 ---
 
 ## Publications
