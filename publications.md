@@ -38,5 +38,5 @@ The development of Youth Justice in the UK since the early 1990s has been inform
 [thesis]: https://uobrep.openrepository.com/handle/10547/326354
 
 
-> "Life is always a tightrope or a feather bed. Give me the tightrope."
-> <small>Edith Warton</small>
+> "Just like the butterfly, I too will awaken in my own time."
+> <small>Deborah Chaskin</small>
