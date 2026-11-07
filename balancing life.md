@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Wellbeing Tightrope
 layout: page
 banner-image: tree-and-sky.jpg
 ---
@@ -57,13 +57,10 @@ If you're interested in the development of the Tightrope Tool and to understand 
 
 For more information email: [info@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-[The Wellbeing Tightrope]: /downloads/WellbeingTightrope.pdf
+[The Wellbeing Tightrope]: /downloads/balancinglife.pdf
 [introduction workbook]: /downloads/balancinglife.pdf 
-[Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
-[thetightropeframework.com]: https://thetightropeframework.com
-[Tightrope Tool}: https://thetightropetool.com
+[Tightrope Tool]: https://thetightropetool.com
 [About]: https://www.tightropetool.com/about
-[@the_tightrope_framework]: https://www.instagram.com/the_tightrope_framework?rpxt=ZXBoZzh6NWE3MHpl&utm_source=qr
 [@dr_roberta_evans]: https://www.instagram.com/dr_roberta_evans?obrf=a3N4Z2VhODZxajA5&utm_source=qr
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
