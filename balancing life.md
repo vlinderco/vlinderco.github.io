@@ -6,7 +6,7 @@ banner-image: tree-and-sky.jpg
 
 # Balancing on the Tightrope of Life <small>workbook to increase resilience</small>
 
-This workbook is an amalgamation of my original tightrope tools and my life experience as a working mother and the techniques I have learnt in my journey towards becoming a coach. 
+The Wellbeing Tightrope is an amalgamation of my original tightrope tools and my life experience as a working mother and the techniques I have learnt in my journey towards becoming a coach. 
 
 The workbook provides an introduction to the Tightrope analogy and to Emotional Freedom Technique (also known as Tapping) 
 
@@ -21,11 +21,11 @@ You are invited to work through each section of the Tightrope to uncover...
 - the steps you can take to create more balance
 - the ultimate goals you want to achieve in your family, work/education, friendship and for yourself
 
-## [Download Balancing on Tightrope of Life]
+## [Download The Wellbeing Tightrope]
 
 For more information email: [roberta@vlinder.co.uk](mailto:info@vlinder.co.uk)
 
-[download balancing on tightrope of life]: /downloads/balancinglife.pdf
+[download The Wellbeing Tightrope]: /downloads/balancinglife.pdf
 
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 > <small>Richard Buckminster Fuller</small>
