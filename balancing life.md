@@ -4,7 +4,7 @@ layout: page
 banner-image: tree-and-sky.jpg
 ---
 
-# Balancing on the Tightrope of Life <small>workbook to increase resilience</small>
+# Workbook supporting resilience <small>to balance on the tightrope of life</small>
 
 The Wellbeing Tightrope is an amalgamation of my original tightrope tools and my life experience as a working mother and the techniques I have learnt in my journey towards becoming a coach. 
 
